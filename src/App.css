@@ -15,7 +15,7 @@
 .tw-followCard-info {
   display: flex;
   flex-direction: column;
-}
+} 
 
 .tw-followCard-infoUserName {
   opacity: .6;

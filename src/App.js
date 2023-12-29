@@ -7,22 +7,22 @@ const users = [
     name: 'Juan Ignacio Marchetton',
     isFollowing: true
   },
- 
   {
-    userName: '@JIMarchetto',
-    name: 'Juan Ignacio Marchetton',
+    userName: '@marchedev',
+    name: 'Juan Patricio Marchetto',
+    isFollowing: false
+  },
+  {
+    userName: '@ClaudioJavierCM ',
+    name: 'Claudio Cormik',
     isFollowing: true
   },
   {
-    userName: '@JIMarchetto',
-    name: 'Juan Ignacio Marchetton',
-    isFollowing: true
-  },
-  {
-    userName: '@JIMarchetto',
-    name: 'Juan Ignacio Marchetton',
-    isFollowing: true
-  }]
+    userName: '@agosende',
+    name: 'Agustin Gosende',
+    isFollowing: false
+  }
+  ]
 export function App () {
   return (
     <section className='App'>
